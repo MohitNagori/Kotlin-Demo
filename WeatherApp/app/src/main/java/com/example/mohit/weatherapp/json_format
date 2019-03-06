@@ -1,0 +1,39 @@
+{
+    "base": "cmc stations",
+    "clouds": {
+        "all": 90
+    },
+    "cod": 200,
+    "coord": {
+        "lat": -35.28,
+        "lon": 149.13
+    },
+    "dt": 1404390600,
+    "id": 2172517,
+    "main": {
+        "humidity": 100,
+        "pressure": 1023,
+        "temp": -1,
+        "temp_max": -1,
+        "temp_min": -1
+    },
+    "name": "Canberra",
+    "sys": {
+        "country": "AU",
+        "message": 0.313,
+        "sunrise": 1404335563,
+        "sunset": 1404370965
+    },
+    "weather": [
+        {
+            "description": "overcast clouds",
+            "icon": "04n",
+            "id": 804,
+            "main": "Clouds"
+        }
+    ],
+    "wind": {
+        "deg": 305.004,
+        "speed": 1.07
+    }
+}
