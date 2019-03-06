@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DateView">
+        <attr name="delimiter" format="string"/>
+        <attr name="isFancyText" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="StyleButton">
+        <attr name="heading" format="string" />
+        <attr name="subHeading" format="string" />
+        <attr name="styleState" format="boolean" />
+    </declare-styleable>
+</resources>
