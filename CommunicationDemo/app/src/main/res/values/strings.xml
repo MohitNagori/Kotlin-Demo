@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CommunicationDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_first_message">Welcome to fragment A</string>
+    <string name="fragment_second_message">Hello Fragment Second</string>
+    <string name="activity_to_frag">Activity to Fragment</string>
+    <string name="add_numbers">Add Numbers in activity</string>
+    <string name="frag_to_frag">Fragment A to Fragment B</string>
+    <string name="communication_activity">Other Activity</string>
+    <string name="select_image">Select Image</string>
+</resources>
